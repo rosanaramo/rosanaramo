@@ -14,9 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I'm a Quality Assurance engineer and SDET
+- I'm a Quality Assurance Engineer and SDET
 - I have more than 9 years of experience
 - I'm specialist in test automation
 - I'm also interested in java developing
 
 ---
+### 🤝 Connect With me
+<a href="https://www.linkedin.com/in/rosanaramo/"><img align="left" src="images/logotipo-quadrado-do-linkedin-isolado-no-fundo-branco_469489-892.avif" alt="Yu Shi | LinkedIn" width="30px"/></a>  
+ </br>
+💬 If you have any question feel free to reach me out!
+---  
+
+
+
+
+
+
+
