@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Rosana 👋
 
 <!--
 **rosanaramo/rosanaramo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- I'm a Quality Assurance engineer and SDET
+- I have more than 9 years of experience
+- I'm specialist in test automation
+- I'm also interested in java developing
+
+---
