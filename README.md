@@ -21,9 +21,11 @@ Here are some ideas to get you started:
 
 ---
 ### 🤝 Connect With me
+
+- 💬 If you have any question feel free to reach me out!
+
 <a href="https://www.linkedin.com/in/rosanaramo/"><img align="left" src="images/logotipo-quadrado-do-linkedin-isolado-no-fundo-branco_469489-892.avif" alt="Yu Shi | LinkedIn" width="30px"/></a>  
- </br>
-💬 If you have any question feel free to reach me out!
+</br>
 ---  
 
 
